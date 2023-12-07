@@ -33,7 +33,7 @@ console.log(sum)
 let a = 5
 let b =10
 
-console.log(`let a =${a} and b=${b}`)
+console.log(`let a=${a} and b=${b}`)
 
 
 
@@ -52,4 +52,4 @@ const PI = 15
 const radius = 20
 const A =PI*radius^2
 
-console.log(A)
+console.log(`Area of the circle = ${A}`)
